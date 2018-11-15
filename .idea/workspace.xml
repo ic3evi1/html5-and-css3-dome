@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6af88bea-adf8-46d6-a613-17f7f09a6734" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -50,6 +51,7 @@
           <entry key="css" value="1" />
           <entry key="html" value="5" />
           <entry key="iml" value="1" />
+          <entry key="md" value="1" />
           <entry key="rnc" value="1" />
         </counts>
       </usages-collector>
@@ -58,6 +60,7 @@
           <entry key="CSS" value="1" />
           <entry key="HTML" value="5" />
           <entry key="IDEA_MODULE" value="1" />
+          <entry key="Markdown" value="1" />
           <entry key="RNG Compact" value="1" />
         </counts>
       </usages-collector>
@@ -65,6 +68,7 @@
         <counts>
           <entry key="css" value="11" />
           <entry key="html" value="802" />
+          <entry key="md" value="57" />
           <entry key="txt" value="33" />
         </counts>
       </usages-collector>
@@ -72,6 +76,7 @@
         <counts>
           <entry key="CSS" value="11" />
           <entry key="HTML" value="802" />
+          <entry key="Markdown" value="57" />
           <entry key="PLAIN_TEXT" value="33" />
         </counts>
       </usages-collector>
@@ -98,7 +103,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/012-HTML表格.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="103">
@@ -108,6 +113,18 @@
                 <element signature="n#style#0;n#col#1;n#colgroup#0;n#table#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#col#2;n#colgroup#0;n#table#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="80">
+                <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -132,6 +149,7 @@
         <option value="$PROJECT_DIR$/010-HTML样式.html" />
         <option value="$PROJECT_DIR$/011-HTML链接.html" />
         <option value="$PROJECT_DIR$/012-HTML表格.html" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -180,7 +198,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542266739211" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542267019480" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -210,7 +228,7 @@
       <updated>1542249577811</updated>
       <workItem from="1542249583005" duration="4291000" />
       <workItem from="1542258058398" duration="748000" />
-      <workItem from="1542258847713" duration="7185000" />
+      <workItem from="1542258847713" duration="7491000" />
     </task>
     <task id="LOCAL-00001" summary="idea">
       <created>1542252533272</created>
@@ -254,11 +272,18 @@
       <option name="project" value="LOCAL" />
       <updated>1542265826693</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="html表格学习">
+      <created>1542266886236</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1542266886236</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12224000" />
+    <option name="totallyTimeSpent" value="12530000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -273,7 +298,7 @@
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989083" visible="true" weight="0.18361884" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989083" visible="true" weight="0.18361884" />
       <window_info id="Structure" order="1" sideWeight="0.5010917" side_tool="true" weight="0.17914438" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -294,7 +319,7 @@
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32968238" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32858709" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" visible="true" weight="0.32976446" />
+      <window_info anchor="right" id="Ant Build" order="1" visible="true" weight="0.0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
@@ -403,6 +428,16 @@
             <element signature="n#style#0;n#col#1;n#colgroup#0;n#table#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#col#2;n#colgroup#0;n#table#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="80">
+            <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
