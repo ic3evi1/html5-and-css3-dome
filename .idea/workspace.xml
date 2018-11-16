@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6af88bea-adf8-46d6-a613-17f7f09a6734" name="Default Changelist" comment="HTML页面布局">
+    <list default="true" id="6af88bea-adf8-46d6-a613-17f7f09a6734" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/017-HTML框架.HTML" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -21,6 +22,12 @@
     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
     <option name="PARALLEL_COMPILATION" value="true" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/HTML5_and_CSS3_Demo$017_HTML_HTML.dat" NAME="017-HTML框架.HTML Coverage Results" MODIFIED="1542390760893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="470" />
+  </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
     <option name="GROUP_DATA_SOURCES" value="true" />
@@ -39,19 +46,23 @@
     <session id="15683478">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
-          <entry key="project.open.time.11" value="1" />
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.11" value="3" />
           <entry key="project.open.time.12" value="2" />
-          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.15" value="2" />
+          <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="2" />
-          <entry key="html" value="11" />
+          <entry key="017-HTML框架" value="1" />
+          <entry key="017HTML框架" value="1" />
+          <entry key="HTML" value="1" />
+          <entry key="css" value="3" />
+          <entry key="html" value="20" />
           <entry key="iml" value="1" />
           <entry key="md" value="1" />
           <entry key="rnc" value="1" />
@@ -59,17 +70,21 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="2" />
-          <entry key="HTML" value="11" />
+          <entry key="CSS" value="3" />
+          <entry key="HTML" value="16" />
           <entry key="IDEA_MODULE" value="1" />
+          <entry key="JQL" value="5" />
           <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
           <entry key="RNG Compact" value="1" />
+          <entry key="XHTML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="HTML" value="340" />
           <entry key="css" value="177" />
-          <entry key="html" value="2636" />
+          <entry key="html" value="2686" />
           <entry key="md" value="57" />
           <entry key="txt" value="52" />
         </counts>
@@ -77,7 +92,8 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="177" />
-          <entry key="HTML" value="2636" />
+          <entry key="HTML" value="2987" />
+          <entry key="JQL" value="39" />
           <entry key="Markdown" value="57" />
           <entry key="PLAIN_TEXT" value="52" />
         </counts>
@@ -93,6 +109,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/016-HTML表单.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/017-HTML框架.HTML">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/015-HTML-Table布局.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/015-HTML-DIV布局.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -103,27 +146,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/015-HTML-Table布局.html">
+        <entry file="file://$PROJECT_DIR$/014-HTML块元素.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
-              <folding>
-                <element signature="n#style#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#1;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#2;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#tr#2;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="220">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/016-HTML表单.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/013-HTML列表.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="25" column="51" lean-forward="true" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
+            <state relative-caret-position="403">
+              <caret line="48" column="18" lean-forward="true" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -150,11 +185,13 @@
         <option value="$PROJECT_DIR$/011-HTML链接.html" />
         <option value="$PROJECT_DIR$/012-HTML表格.html" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/013-HTML列表.html" />
         <option value="$PROJECT_DIR$/014-HTML块元素.css" />
         <option value="$PROJECT_DIR$/014-HTML块元素.html" />
         <option value="$PROJECT_DIR$/015-HTML-DIV布局.html" />
         <option value="$PROJECT_DIR$/015-HTML-Table布局.html" />
+        <option value="$PROJECT_DIR$/017-HTML框架.html" />
+        <option value="$PROJECT_DIR$/013-HTML列表.html" />
+        <option value="$PROJECT_DIR$/017-HTML框架.HTML" />
         <option value="$PROJECT_DIR$/016-HTML表单.html" />
       </list>
     </option>
@@ -171,11 +208,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="295" />
+    <option name="y" value="305" />
     <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="height" value="993" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -185,8 +222,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -204,12 +241,18 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542352027109" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542393656718" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="liveEdit" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\programming\HTML5 and CSS3 Demo" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -222,6 +265,16 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="017-HTML框架.HTML" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML5 and CSS3 Demo/017-HTML框架.HTML">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.017-HTML框架.HTML" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -238,7 +291,11 @@
       <workItem from="1542258847713" duration="10702000" />
       <workItem from="1542287393652" duration="9516000" />
       <workItem from="1542349032645" duration="2119000" />
-      <workItem from="1542355315935" duration="487000" />
+      <workItem from="1542355315935" duration="1196000" />
+      <workItem from="1542389043461" duration="464000" />
+      <workItem from="1542389545161" duration="779000" />
+      <workItem from="1542390371643" duration="695000" />
+      <workItem from="1542391110594" duration="2456000" />
     </task>
     <task id="LOCAL-00001" summary="idea">
       <created>1542252533272</created>
@@ -317,11 +374,18 @@
       <option name="project" value="LOCAL" />
       <updated>1542304513527</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="HTML页面布局">
+      <created>1542355875497</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1542355875497</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27863000" />
+    <option name="totallyTimeSpent" value="32966000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -333,20 +397,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="295" y="305" width="1400" height="993" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49755302" visible="true" weight="0.19004282" />
-      <window_info id="Structure" order="1" sideWeight="0.502447" side_tool="true" weight="0.19004282" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4961665" visible="true" weight="0.28003004" />
+      <window_info id="Structure" order="1" sideWeight="0.50383353" side_tool="true" weight="0.1996788" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" sideWeight="0.502447" side_tool="true" weight="0.19004282" />
+      <window_info id="Favorites" order="6" sideWeight="0.50383353" side_tool="true" weight="0.1996788" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946466" weight="0.32968238" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49892932" visible="true" weight="0.39880952" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3290461" />
@@ -354,7 +418,7 @@
       <window_info anchor="bottom" id="Problems" order="8" weight="0.32858709" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49946466" weight="0.32968238" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5005353" side_tool="true" weight="0.32858709" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5010707" side_tool="true" weight="0.39978093" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.5334064" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.32976446" />
@@ -365,6 +429,7 @@
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Database" order="7" weight="0.32976446" />
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.32922912" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32976446" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -475,13 +540,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/014-HTML块元素.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/014-HTML块元素.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
@@ -489,10 +547,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/013-HTML列表.html">
+    <entry file="file://$PROJECT_DIR$/017-HTML框架" />
+    <entry file="file://$PROJECT_DIR$/015-HTML-Table布局.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="743">
-          <caret line="65" column="7" lean-forward="true" selection-start-line="65" selection-start-column="7" selection-end-line="65" selection-end-column="7" />
+        <state relative-caret-position="60">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -503,25 +562,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/015-HTML-Table布局.html">
+    <entry file="file://$PROJECT_DIR$/014-HTML块元素.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#1;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#2;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#2;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="220">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/013-HTML列表.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="48" column="18" lean-forward="true" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/017-HTML框架.HTML">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/016-HTML表单.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="25" column="51" lean-forward="true" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
+        <state relative-caret-position="290">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
