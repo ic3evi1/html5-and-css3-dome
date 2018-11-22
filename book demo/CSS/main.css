@@ -1,0 +1,52 @@
+body{
+    font-family: Verdana;
+}
+
+article{
+    width: 800px;
+}
+
+h1{
+    color: green;
+}
+
+article header p{
+    background-color: red;
+    color: white;
+}
+
+article figure{
+    width: 600px;
+    border: 3px solid black;
+    padding: 5px;
+}
+
+article figure img{
+    width: 100%;
+}
+
+nav ul{
+    background-color: palevioletred;
+    list-style: none;
+    padding: 0px;
+    width: 200px;
+    border: 1px solid mediumvioletred;
+}
+nav ul li{
+    border: 1px solid mediumvioletred;
+    padding: 5px;
+}
+nav ul li:last-child{
+    border-bottom: none;
+}
+
+nav ul li a{
+    color: white;
+    text-decoration: none;
+}
+
+nav ul li a:hover{
+    color: palevioletred;
+    background-color: white;
+}
+
