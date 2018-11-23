@@ -1,0 +1,14 @@
+h1{
+  font-family: serif;
+  font-size: 20px;
+  font-style: oblique;
+  font-display: optional;
+}
+.box{
+  width: 0px;
+  height: 0px;
+  border-top: solid 100px transparent;
+  border-bottom: solid 100px blue;
+  border-left: solid 100px transparent;
+  border-right: solid 100px transparent;
+}
