@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6af88bea-adf8-46d6-a613-17f7f09a6734" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CSS 学习/001-CSS.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS 学习/CSS/001-CSS.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML 标签学习/011-HTML实体.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book demo/CSS/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book demo/article.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book demo/images/cat.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book demo/images/happycat.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book demo/jobpost.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book demo/menu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,7 +42,7 @@
     <session id="15683478">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
+          <entry key="project.closed" value="13" />
           <entry key="project.open.time.11" value="3" />
           <entry key="project.open.time.12" value="2" />
           <entry key="project.open.time.14" value="1" />
@@ -99,7 +88,7 @@
           <entry key="css" value="528" />
           <entry key="html" value="3435" />
           <entry key="md" value="115" />
-          <entry key="txt" value="97" />
+          <entry key="txt" value="110" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -108,7 +97,7 @@
           <entry key="HTML" value="3821" />
           <entry key="JQL" value="39" />
           <entry key="Markdown" value="115" />
-          <entry key="PLAIN_TEXT" value="97" />
+          <entry key="PLAIN_TEXT" value="110" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.run.usages" />
@@ -256,7 +245,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542874865907" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542874934105" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -318,7 +307,7 @@
       <workItem from="1542639722678" duration="3090000" />
       <workItem from="1542729490387" duration="1379000" />
       <workItem from="1542730929745" duration="2331000" />
-      <workItem from="1542870292708" duration="4517000" />
+      <workItem from="1542870292708" duration="4700000" />
     </task>
     <task id="LOCAL-00001" summary="idea">
       <created>1542252533272</created>
@@ -432,11 +421,18 @@
       <option name="project" value="LOCAL" />
       <updated>1542642492496</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="添加book demo">
+      <created>1542874901229</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1542874901229</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50114000" />
+    <option name="totallyTimeSpent" value="50297000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -530,7 +526,8 @@
     <MESSAGE value="HTML框架两个标签的使用iframe  frame" />
     <MESSAGE value="优化文档目录" />
     <MESSAGE value="HTML背景图片和颜色" />
-    <option name="LAST_COMMIT_MESSAGE" value="HTML背景图片和颜色" />
+    <MESSAGE value="添加book demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加book demo" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
