@@ -1,0 +1,28 @@
+div{
+	font-size: 20px;
+	border: 1px solid black;
+	text-align: left; /*对齐方式*/
+	height: 400px;/*height=line-height就使文本垂直居中*/
+	line-height: 1.2em;
+	text-indent: 2em; /*缩进2个字*/
+}
+/*1em=1*fonte-size*/
+
+span{
+	text-decoration: underline;
+	color: rgb(0,0,238);
+	cursor: pointer;
+}
+a{
+	text-decoration: none;
+}
+a:hover{
+	background-color: #f40;
+	color:#fff;
+	font-size: 20px;
+	font-family: arial;
+	border-radius: 10px;
+	font-weight: bolder;
+	text-decoration: underline;
+}
+
